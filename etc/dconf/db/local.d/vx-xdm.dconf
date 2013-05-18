@@ -1,0 +1,5 @@
+[com/canonical/unity-greeter]
+background='/usr/share/backgrounds/vitalinux-xdm.png'
+background-color='#0e1e35'
+draw-grid=false
+logo='/usr/share/vx-xdm/logo.png'

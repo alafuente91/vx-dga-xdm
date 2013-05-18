@@ -1,0 +1,12 @@
+vx-xdm (1.0-1) unstable; urgency=low
+
+  * La configuración de LightDM se hace en dconf:
+    http://askubuntu.com/questions/64001/how-do-i-change-the-wallpaper-in-lightdm/
+  * Se añade el fichero /etc/skel/.dmrc para seleccionar la sesión gráfica por
+    defecto.
+  * Se añade numlockx como dependencia para activar el teclado numérico en
+    LightDM.
+  * Se añade como dependencia el paquete vx-dconf-profile (que es el encargado
+    de dejar preconfigurado el sistema dconf de Gnome).
+
+ -- Jose Antonio Chavarría <jachavar@gmail.com>  Sat, 18 May 2013 17:05:38 +0200

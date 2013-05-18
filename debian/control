@@ -1,0 +1,13 @@
+Source: vx-xdm
+Section: x11
+Priority: extra
+Maintainer: Jose Antonio Chavarría <jachavar@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: https://github.com/vitalinux/vx-xdm
+
+Package: vx-xdm
+Architecture: all
+Pre-Depends: vx-dconf-profile, vx-utils
+Depends: ${misc:Depends}, lightdm, gnome-session-fallback, numlockx
+Description: Settings and theme for Vitalinux LightGDM.
