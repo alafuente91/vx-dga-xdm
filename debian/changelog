@@ -1,3 +1,9 @@
+vx-xdm (1.1-0) unstable; urgency=low
+
+  * Opcion de meter usuario manualmente desactivada (closes #1)
+
+ -- Eduardo Romero <eduromo@gmail.com>  Sat, 30 Nov 2013 23:05:38 +0200
+
 vx-xdm (1.0-2) unstable; urgency=low
 
   * Activar de nuevo la opcion de lightdm para que muestre los usuarios ya instalados
