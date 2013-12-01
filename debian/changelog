@@ -1,3 +1,9 @@
+vx-xdm (1.2-0) unstable; urgency=low
+
+  * desactivar numlock en lightdm #2 (closes #2)
+
+ -- Eduardo Romero <eduromo@gmail.com>  Sat, 01 Dec 2013 23:05:38 +0200
+
 vx-xdm (1.1-0) unstable; urgency=low
 
   * Opcion de meter usuario manualmente desactivada (closes #1)
