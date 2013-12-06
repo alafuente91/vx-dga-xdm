@@ -1,11 +1,11 @@
 Format: http://dep.debian.net/deps/dep5
-Upstream-Name: azl-xdm
+Upstream-Name: vx-xdm
 
-Files: usr/share/backgrounds/vitalinux-xdm.png
-Copyright: 2010-2013 mrwonderful28
-License: Creative Commons by-nc-nd <http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode>
+Files: usr/share/backgrounds/vitalinux-xdm.png usr/share/vx-xdm/logo.png
+Copyright: 2013 Flavia Jim <flaviajim93@gmail.com>
+License: GPL-3.0+
 
-Files: usr/share/vx-xdm/* etc/* debian/*
+Files: etc/* debian/*
 Copyright: 2013 Jose Antonio Chavarría <jachavar@gmail.com>
 License: GPL-3.0+
 
