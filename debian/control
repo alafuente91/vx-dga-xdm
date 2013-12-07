@@ -12,5 +12,5 @@ Provides: vx-virtual-xdm
 Conflicts: vx-virtual-xdm
 Replaces: vx-virtual-xdm
 Pre-Depends: vx-dconf-profile, vx-utils
-Depends: ${misc:Depends}, lightdm, gnome-session-fallback, numlockx
+Depends: ${misc:Depends}, lightdm, gnome-session-fallback
 Description: Settings and theme for Vitalinux LightGDM.
