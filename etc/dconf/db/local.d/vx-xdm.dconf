@@ -1,5 +1,5 @@
 [com/canonical/unity-greeter]
-background='/usr/share/backgrounds/vitalinux-xdm.png'
-background-color='#e9ecee'
+background='/usr/share/backgrounds/Precise_Pangolin_by_Vlad_Gerasimov.jpg'
+background-color='#401a11'
 draw-grid=false
 logo='/usr/share/vx-xdm/logo.png'
