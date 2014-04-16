@@ -18,8 +18,8 @@ case "$1" in
     install)
         # backup original LightDM configuration
         _FILE=/etc/lightdm/lightdm.conf
-        vx-file --backup $_FILE
-        rm -f $_FILE
+        vx-file --backup $_FILE || :
+        rm -f $_FILE || :
     ;;
 
     upgrade)

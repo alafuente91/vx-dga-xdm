@@ -23,7 +23,7 @@ case "$1" in
     purge)
         dconf update
 
-        vx-file --restore /etc/lightdm/lightdm.conf
+        vx-file --restore /etc/lightdm/lightdm.conf || :
     ;;
 
     remove|upgrade|failed-upgrade|abort-install|abort-upgrade|disappear)
