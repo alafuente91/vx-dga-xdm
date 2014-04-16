@@ -1,3 +1,10 @@
+vx-xdm (1.4-2) unstable; urgency=low
+
+  * No se confía en la existencia del fichero de configuración de LightDM, al
+    ser generado y no pertenecer a ningún paquete (closes #5).
+
+ -- Jose Antonio Chavarría <jachavar@gmail.com>  Wed, 16 Apr 2014 19:49:42 +0200
+
 vx-xdm (1.4-1) unstable; urgency=low
 
   * Se elimina el archivo usr/share/backgrounds/vitalinux-xdm.png porque se opta
