@@ -1,5 +1,5 @@
 #!/bin/sh
-# preinst script for vx-xdm
+# preinst script for vx-dga-xdm
 #
 # see: dh_installdeb(1)
 

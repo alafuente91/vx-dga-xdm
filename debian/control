@@ -1,16 +1,16 @@
-Source: vx-xdm
+Source: vx-dga-xdm
 Section: x11
 Priority: extra
-Maintainer: Jose Antonio Chavarría <jachavar@gmail.com>
+Maintainer: Ángel lafuente <angel.lafuentezgz@gmail.com>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.3
 Homepage: https://github.com/vitalinux/vx-xdm
 
-Package: vx-xdm
+Package: vx-dga-xdm
 Architecture: all
-Provides: vx-virtual-xdm
-Conflicts: vx-virtual-xdm
-Replaces: vx-virtual-xdm
+Provides: vx-dga-virtual-xdm
+Conflicts: vx-dga-virtual-xdm
+Replaces: vx-dga-virtual-xdm
 Pre-Depends: vx-dconf-profile, vx-utils
 Depends: ${misc:Depends}, lightdm, gnome-session-fallback
 Description: Settings and theme for Vitalinux LightGDM.

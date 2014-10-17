@@ -1,5 +1,5 @@
 #!/bin/bash
-# postrm script for vx-xdm
+# postrm script for vx-dga-xdm
 #
 # see: dh_installdeb(1)
 

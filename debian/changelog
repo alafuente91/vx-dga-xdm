@@ -1,3 +1,9 @@
+vx-dga-xdm (1.4-3) unstable; urgency=low
+
+  * se modifica el fondo de pantalla correspondiente a vitalinux para adaptarlo al proyecto piloto de la DGA.
+
+ -- Ángel Lafuente <angel.lafuentezgz@gmail.com>  Fri, 17 Oct 2014 13:10:42 +0200
+
 vx-xdm (1.4-2) unstable; urgency=low
 
   * No se confía en la existencia del fichero de configuración de LightDM, al
